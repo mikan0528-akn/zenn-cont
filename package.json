@@ -1,0 +1,24 @@
+{
+  "name": "@nitadori528-hym/zenn-cont",
+  "version": "1.0.0",
+  "description": "https://github.com/nitadori528-hym/zenn-cont/blob/master/README.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "似鳥",
+  "license": "ISC",
+  "dependencies": {
+    "zenn-cli": "^0.1.134"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitadori528-hym/zenn-cont.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nitadori528-hym/zenn-cont/issues"
+  },
+  "homepage": "https://github.com/nitadori528-hym/zenn-cont#readme"
+}
