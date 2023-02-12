@@ -10,9 +10,8 @@
   "author": "似鳥",
   "license": "ISC",
   "dependencies": {
-    "zenn-cli": "^0.1.134"
+    "zenn-cli": "^0.1.137"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mikan0528-akn/zenn-cont.git"
