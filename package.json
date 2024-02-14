@@ -4,7 +4,8 @@
   "description": "https://github.com/mikan0528-akn/zenn-cont/blob/master/README.md",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prev": "zenn preview"
   },
   "keywords": [],
   "author": "似鳥",
